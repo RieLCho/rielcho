@@ -7,5 +7,6 @@
 
 ### What can I do
 - C, C++, Python, Java, Swift
+- HTML, CSS, JavaScript, Shell script
 - Linux (Manjaro, Ubuntu, CentOS)
 - Korean, English, Japanese
