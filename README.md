@@ -3,7 +3,7 @@
 ### About Me 
 - Computer Engineering @ Dongguk University
 - Former 32nd president of "[SPACE](https://paichai.space)" @ Paichai High School
-- Vice 33rd president of "[C.A.P.S](https://caps.dongguk.edu)" @ Dongguk University
+- 33rd vice president of "[C.A.P.S](https://caps.dongguk.edu)" @ Dongguk University
 
 ### What can I do
 - C, C++, Python, Java, Swift
