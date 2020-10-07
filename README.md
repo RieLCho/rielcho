@@ -7,6 +7,5 @@
 
 ### 💻 Surviving Skills 
 - C, C++, Python, Java, Swift
-- HTML, CSS, JavaScript, Shell script
 - Linux (Manjaro, Ubuntu, CentOS)
 - Korean, English, Japanese
