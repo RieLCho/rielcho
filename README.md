@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/13748138/94645810-c04fdf80-0327-11eb-8ac8-bb5225c5b217.jpg" width="65%">
+<img src="https://user-images.githubusercontent.com/13748138/95885113-d940a200-0db7-11eb-913e-a6db4b8412a8.jpg" width="100%">
 
 ### 👋 Hello World! 
 - Computer Engineering @ Dongguk University
