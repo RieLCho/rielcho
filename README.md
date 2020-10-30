@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/13748138/97760813-653c2300-1b47-11eb-8ee0-23629a69557f.jpg" width="50%">
+<img src="https://user-images.githubusercontent.com/13748138/97761125-3c685d80-1b48-11eb-9922-924b8a46c471.jpg" width="100%">
 
 ### 👋 Hello World! 
 - My name is Yangjin Cho.
