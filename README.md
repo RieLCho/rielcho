@@ -8,5 +8,5 @@
 - Korean, English, Japanese
 
 ### ✍ Todo List
-- JAVA, Kotlin
+- Java, Kotlin
 - RxJAVA2, Retrofit2, OkHttp3, Glide, Room
