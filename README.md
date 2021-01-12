@@ -1,4 +1,4 @@
-![RieLCho's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=choyj1222)
+[![RieLCho's solved.ac stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=choyj1222)](https://solved.ac/profile/choyj1222)
 
 ### 👋 Career
 - "[SPACE](https://paichai.space)" Former 32nd president
