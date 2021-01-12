@@ -11,4 +11,4 @@
 
 ### ✍ 2021 TODO
 - Java, Kotlin
-- RxJAVA2, Retrofit2, OkHttp3, Glide, Room
+- [RxJAVA2, Retrofit2, OkHttp3, Glide, Room](https://www.woowahan.com/?fbclid=IwAR29uUZ0nAhfjvY0s2of4c85DggeDoQUrI1bXkhrj3Lg3lZrLaxpL0F4Zwo#/recruit/army)
