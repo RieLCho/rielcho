@@ -1,5 +1,3 @@
-[![RieLCho's solved.ac stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=choyj1222)](https://solved.ac/profile/choyj1222)
-
 ### 👋 Career
 - Former "[SPACE](https://paichai.space)" 32nd president
 - Former "[C.A.P.S](https://caps.dongguk.edu)" 33rd vice president
@@ -7,7 +5,6 @@
 ### 💻 Surviving Skills
 - C, C++, Python, Java, Swift
 - Manjaro Linux w/ GNOME
-- Korean, English, Japanese
 
 ### ✍ 2021 TODO
 - Java, Kotlin
