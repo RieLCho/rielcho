@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/13748138/97761125-3c685d80-1b48-11eb-9922-924b8a46c471.jpg" width="80%">
+<img src="https://user-images.githubusercontent.com/13748138/97761125-3c685d80-1b48-11eb-9922-924b8a46c471.jpg" width="70%">
 - Introducing my daily drivers, T440 & E14 Gen2
 
 ### 👋 Career
