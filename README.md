@@ -11,6 +11,6 @@
 
 ### ✍ 2021 TODO
 - Flutter, Kotlin
-- [RxJAVA2, Retrofit2, OkHttp3, Glide, Room](https://www.woowahan.com/?fbclid=IwAR29uUZ0nAhfjvY0s2of4c85DggeDoQUrI1bXkhrj3Lg3lZrLaxpL0F4Zwo#/recruit/army)
+- RxJAVA2, Retrofit2, OkHttp3, Glide, Room
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRieLCho&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
