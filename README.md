@@ -3,7 +3,6 @@
 ### 👋 Career
 - Former [SPACE](https://paichai.space) 32nd president @ Paichai High School
 - Former [C.A.P.S](https://caps.dongguk.edu) 33rd vice president @ Dongguk University
-- Working at [NGINE STUDIOS](https://career.nexon.com/user/recruit/member/postList?joinCorp=GN) @ [NEXON Company](https://company.nexon.com)
 
 ### 💻 Surviving Skills
 - TypeScript, React.js
