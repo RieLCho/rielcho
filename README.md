@@ -1,9 +1,9 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=choyj1222)](https://solved.ac/choyj1222)
 ### 👋 Career
-- Former "[SPACE](https://paichai.space)" 32nd president
-- Former "[C.A.P.S](https://caps.dongguk.edu)" 33rd vice president
-- Working at "[Nexon Company](https://company.nexon.com)" @ "[NGINE Studios](https://career.nexon.com/user/recruit/member/postList?joinCorp=GN)"
+- Former [SPACE](https://paichai.space) 32nd president @ Paichai High School
+- Former [C.A.P.S](https://caps.dongguk.edu) 33rd vice president @ Dongguk University
+- Working at [NGINE STUDIOS](https://career.nexon.com/user/recruit/member/postList?joinCorp=GN) @ [NEXON Company](https://company.nexon.com)
 
 ### 💻 Surviving Skills
 - TypeScript, React.js
