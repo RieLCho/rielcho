@@ -3,7 +3,7 @@
 ### 👋 Career
 - Former "[SPACE](https://paichai.space)" 32nd president
 - Former "[C.A.P.S](https://caps.dongguk.edu)" 33rd vice president
-- Working at "[Nexon Company](https://company.nexon.com)" @ "[Ngine Studios](https://career.nexon.com/user/recruit/member/postList?joinCorp=GN)"
+- Working at "[Nexon Company](https://company.nexon.com)" @ "[NGINE Studios](https://career.nexon.com/user/recruit/member/postList?joinCorp=GN)"
 
 ### 💻 Surviving Skills
 - TypeScript, React.js
