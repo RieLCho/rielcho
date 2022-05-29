@@ -3,7 +3,7 @@
 ### 👋 Career
 - Former [SPACE](https://paichai.space) 32nd president @ Paichai High School
 - Former [C.A.P.S](https://caps.dongguk.edu) 33rd vice president @ Dongguk University
-- [NGINE STUDIOS](http://company.nexon.com/Company/Introduce/Relations/Relations.aspx) Front-end Programmer @ NEXON Company
+- [NGINE STUDIOS](http://company.nexon.com/Company/Introduce/Relations/Relations.aspx) Programmer @ NEXON Company
 
 ### 💻 My Interests
 - TypeScript, React.js
