@@ -6,6 +6,5 @@
 - [NGINE STUDIOS](http://company.nexon.com/Company/Introduce/Relations/Relations.aspx) Programmer @ NEXON Company
 
 ### 💻 My Interests
-- TypeScript, React.js
-- Arch Linux, Deno, Aleph.js, Next.js
-- C++, Python, Java, Swift
+- Deno, Aleph.js, TailWindCSS
+- React Native with Kotlin & Swift
