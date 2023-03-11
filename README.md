@@ -6,5 +6,5 @@
 - [NGINE STUDIOS](http://company.nexon.com/Company/Introduce/Relations/Relations.aspx) Programmer @ NEXON Company
 
 ### 💻 My Interests
-- Deno, Aleph.js, TailWindCSS
+- Deno, Aleph.js
 - React Native with Kotlin & Swift
