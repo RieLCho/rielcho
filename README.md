@@ -1,5 +1,5 @@
 # I do what I love
-<img src="https://github.com/user-attachments/assets/c2c08fe9-3b76-4261-83c1-cfa1f3342c19" width="300"/>  
+<img src="https://github.com/user-attachments/assets/c2c08fe9-3b76-4261-83c1-cfa1f3342c19" width="400"/>  
 
 ### Hi, my name is Yangjin Cho, but you can call me Jini or RieL. 
 
