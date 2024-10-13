@@ -3,8 +3,8 @@
 
 ### Hi, my name is Yangjin Cho, but you can call me Jini or RieL. 
 
-- Computer Science Engineering @ Dongguk University, Seoul Campus
-- Front-End Developer @ Ngine Studios, Nexon Company
+- Computer Science Engineering @ [Dongguk University, Seoul Campus](https://cs.dongguk.edu/main)
+- Front-End Developer @ [Ngine Studios, Nexon Company](https://www.linkedin.com/company/nginestudios/)
   - Projects
     - [AD Creator](https://docs.gamescale.io/ko/doc/49/categories/13993)
     - [Nexon Creators Platform](https://creators.nexon.com/)
