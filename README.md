@@ -17,7 +17,7 @@ Currently balancing my studies and work, so responses may be slower than usual.
 #### Always Ready
 - React.js, TypeScript, tailwindcss
 #### Had some experience with, but may need further research for contributions.
-- Python, Swift, Vue, C++, JAVA, Kotlin
+- Python, Swift, Vue, C++, Java for Android, Kotlin
 
 ### Other interests
 - ThinkPad ([r/thinkpad](https://www.reddit.com/r/thinkpad/comments/jluh2l/my_daily_drivers/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button))
