@@ -8,7 +8,7 @@
   - Projects
     - [AD Creator](https://docs.gamescale.io/ko/doc/49/categories/13993)
     - [Nexon Creators Platform](https://creators.nexon.com/)
-      - [Wrote Article about applying SEO on Nexon Creators Platform](https://www.intelligencelabs.tech/86c22758-0540-4732-be7c-2494a44b893e)
+      - [Published an article on SEO strategies for the Nexon Creators Platform](https://www.intelligencelabs.tech/86c22758-0540-4732-be7c-2494a44b893e)
       - [Official Credit for The First Descendant](https://x.com/jini_QwQ/status/1808043158485586000)
 
 Currently balancing my studies and work, so responses may be slower than usual.
@@ -16,7 +16,7 @@ Currently balancing my studies and work, so responses may be slower than usual.
 ### Available Tools 
 #### Always Ready
 - React.js, TypeScript, tailwindcss
-#### Had some experience with, but may need further research for contributions.
+#### Familiar with, but may need further research for full contributions
 - Python, Swift, Vue, C++, Java for Android, Kotlin
 
 ### Other interests
