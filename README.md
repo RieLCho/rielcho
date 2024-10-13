@@ -1,39 +1,28 @@
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/c2c08fe9-3b76-4261-83c1-cfa1f3342c19" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/55476435-1ac5-4227-aa00-1693d84efcd4" width="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/dc4a8c43-7a2c-4b91-8984-6e7b7d244be0" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/9971c6da-fee3-4fd7-95b0-eb3f8f0b9bc6" width="300"/></td>
-  </tr>
-</table>
-
 # I do what I love
-Hi, I'm Yangjin Cho, but you can call me Jini or RieL. 
+<img src="https://github.com/user-attachments/assets/c2c08fe9-3b76-4261-83c1-cfa1f3342c19" width="300"/>  
 
-I'm a Computer Science student & full time Front-End Developer passionate about building innovative web platforms.
+### Hi, my name is Yangjin Cho, but you can call me Jini or RieL. 
 
 - Computer Science Engineering @ Dongguk University, Seoul Campus
 - Front-End Developer @ Ngine Studios, Nexon Company
   - Projects
-    - [AD Creator - Participated as Front-End Developer](https://docs.gamescale.io/ko/doc/49/categories/13993)
-    - [Nexon Creators Platform - Participated as Front-End Developer](https://creators.nexon.com/)
-      - [Article about applying SEO on Nexon Creators Platform](https://www.intelligencelabs.tech/86c22758-0540-4732-be7c-2494a44b893e)
+    - [AD Creator](https://docs.gamescale.io/ko/doc/49/categories/13993)
+    - [Nexon Creators Platform](https://creators.nexon.com/)
+      - [Wrote Article about applying SEO on Nexon Creators Platform](https://www.intelligencelabs.tech/86c22758-0540-4732-be7c-2494a44b893e)
       - [Official Credit for The First Descendant](https://x.com/jini_QwQ/status/1808043158485586000)
 
 Currently balancing my studies and work, so responses may be slower than usual.
 
-### Main Tools (Always ready)
+### Available Tools 
+#### Always Ready
 - React.js, TypeScript, tailwindcss
-
-### These are technologies I have some experience with, but may need further research for contributions.
+#### Had some experience with, but may need further research for contributions.
 - Python, Swift, Vue, C++, JAVA, Kotlin
 
 ### Other interests
-- Arknights
-- Umamusume
+- ThinkPad ([r/thinkpad](https://www.reddit.com/r/thinkpad/comments/jluh2l/my_daily_drivers/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button))
+- Manjaro Linux ([AUR](https://aur.archlinux.org/account/sheepjin99))
+- Arknights (Yostar KR, Jini#0515)
 - Rainbow Six Siege
-- Cycling (Road, MTB)
-- J-Core & DJing
-- Computer Science
+- Cycling (Road, MTB) ([Strava](https://www.strava.com/athletes/4350561))
+- J-Core & DJing ([SoundCloud](https://soundcloud.com/rielcho))
