@@ -6,7 +6,7 @@
 - Computer Science Engineering @ [Dongguk University, Seoul Campus](https://cs.dongguk.edu/main)
 - Front-End Developer @ [Ngine Studios, Nexon Company](https://www.linkedin.com/company/nginestudios/)
   - Projects
-    - [AD Creator](https://docs.gamescale.io/ko/doc/49/categories/13993)
+    - [AD Creator](https://docs.gamescale.io/ko/doc/49/categories/13993](https://developers.gamescale.io/ko/services/47))
     - [Nexon Creators Platform](https://creators.nexon.com/)
       - [Published an article on SEO strategies for the Nexon Creators Platform](https://www.intelligencelabs.tech/86c22758-0540-4732-be7c-2494a44b893e)
       - [Official Credit for The First Descendant](https://x.com/jini_QwQ/status/1808043158485586000)
